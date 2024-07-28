@@ -1,5 +1,7 @@
 # Containerise a Golang application
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/adamfordyce11/golang-container)
+
 ## Setup
 
 1. Install Golang version >= 1.20.
